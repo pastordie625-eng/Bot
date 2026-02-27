@@ -2,17 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=240CF7&background=ADF4FF&center=true&vCenter=true&width=435&lines=HEY+POWERFUL+BOT+;LAYERS+XMD;XIBS+REPLACEMENT)](https://git.io/typing-svg)
    
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
-
-**1. Fork This Repository**
-
-*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
-
   <a href="https://github.com/trendex2030/TREND-X/fork"><img title="TREND-X" src="https://img.shields.io/badge/FORK-TREND-Xh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 <img title="XIBS" src="https://img.shields.io/badge/AURA-red?logo=BMW"></a>
-
+<h1 style="text-align: center;"><img title="XIBS" src="https://img.shields.io/badge/AURA-red?logo=BMW"></a></h1>
+<h1 style="text-align: center;"><img title="XIBS" src="https://img.shields.io/badge/XIBS-TESLA-blue?logo=Tesla"></a></h1>
+<h1 style="text-align: center;"><img title="XIBS" src="https://img.shields.io/badge/LAYERS-XMD-blue?logo=whatsapp"></a></h1>
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
 > To deploy, generate your session ID from the link below:
