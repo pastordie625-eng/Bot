@@ -3,11 +3,8 @@
 <img src="" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 LAYERS🌝💚
 <div class = "repo" align = "center">
- 
 
-</img>
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TREND-X+MD+WHATSAPP+BOT+MD" alt="">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=240CF7&background=ADF4FF&center=true&vCenter=true&width=435&lines=HEY+POWERFUL+BOT+;LAYERS+XMD;XIBS+REPLACEMENT)](https://git.io/typing-svg)
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
